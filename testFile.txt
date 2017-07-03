@@ -17,3 +17,4 @@ seventh modify
 -----branch V1.0------
 this is the first modify on branch v1.0
 I need a conflict
+I fixed a bug.
