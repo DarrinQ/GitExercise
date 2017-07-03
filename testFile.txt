@@ -19,4 +19,3 @@ this is the first modify on branch v1.0
 I need a conflict
 I am working.
 I fixed a bug.
-
